@@ -1,3 +1,3 @@
 # Another Header
 # RMGHTest
-This is a test of the readme.md file
+This was added in the Sublime Text editor on Rita's Computer
